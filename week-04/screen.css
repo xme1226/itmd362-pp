@@ -50,6 +50,7 @@ table {
 label, input {
     display: block;
     font-family: 'Roboto', sans-serif;
+    font-size: 1em;
 }
 
 label {
@@ -62,4 +63,9 @@ input, textarea {
 
 form {
     margin: 3em;
+}
+
+textarea {
+    width: 40em;
+    height: 20em;
 }
