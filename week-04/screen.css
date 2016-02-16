@@ -49,6 +49,7 @@ table {
 
 label, input {
     display: block;
+    font-family: 'Roboto', sans-serif;
 }
 
 input, textarea {
