@@ -46,3 +46,15 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+label, input {
+    display: block;
+}
+
+input, textarea {
+    margin-bottom: 2em;
+}
+
+form {
+    margin: 3em;
+}
