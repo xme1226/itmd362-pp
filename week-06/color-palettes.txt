@@ -15,20 +15,20 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
-Explanation of your color choices:
+Filename: monochromatic.png
+Explanation of your color choices: dark purple give a sence of luxury and refinement. people can feel the products more worthy and luxurious.
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
-Explanation of your color choices:
+Filename: shaded.png
+Explanation of your color choices: green can present very down-to-earth. if website color is kind of green, customer can feel more fresh, healthy.
 
 * A complementary palette for a banking website.
 
-Filename:
-Explanation of your color choices:
+Filename: complementary.png
+Explanation of your color choices: dark blues give user a feeling of reliability. while the yellow adds a bit of energy. the reason for choosing those color is because It is important to give trust to customer in banking website.
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
-Explanation of your color choices:
+Filename: triadic.png
+Explanation of your color choices: main color is yellow which is brightest and most energizing of the warm colors. and another color is also vivid. those can give children energy.
