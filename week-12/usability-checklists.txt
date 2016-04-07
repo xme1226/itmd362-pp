@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.https://stayintech.com/info/UX
+2.http://www.userfocus.co.uk/resources/guidelines.html
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. If the site is large, the home page contains a search input box
+2. The value proposition is clearly stated on the home page
+3. Navigation choices are ordered in the most logical or task-oriented manner
+4. By just looking at the home page, the first time user will understand where to start.
+5. The home page of the site has a memorable URL.
+6. Logged in user's name is displayed on the site.
+7. Company location and contact information is easily accessible from the homepage. 
+8. Images and videos are relevant and meaningful.
+9. Site URL works with or without www. For example "www.stayintech.com" and "stayintech.com".
+10. Product categories are provided and clearly visible on the homepage.
