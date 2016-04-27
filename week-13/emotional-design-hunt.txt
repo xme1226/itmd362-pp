@@ -8,7 +8,7 @@ Then, locate a physical object that you use regularly in your life (does not hav
 
 ## Deliverables
 
-A. Photograph of the object (place in the week-12/ directory and commit).
+A. Photograph of the object (place in the week-13/ directory and commit).
 
 B. Emotional design levels of your object:
 
@@ -20,6 +20,12 @@ B. Emotional design levels of your object:
 
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
+<<<<<<< HEAD
 1. Element of emotional design can provoke positive emotional reaction from users.
 2. The Element should be easy to use (or should include the instructions)
 3. The Element should be portable or easy to access.
+=======
+1.
+2.
+3.
+>>>>>>> f29d348ae1accc8e87a2b270cd8d97379509bea8
